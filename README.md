@@ -4,7 +4,7 @@
 
 **STORY OF THE DATASET**: In "ab_testing.xlsx" dataset, which includes website information of the customer, there is information such as the number of advertisements that users see and click, as well as earnings information from here.
 
-We have two groups in the dataset as control group and test group
+We have two groups in the dataset as control group and test group.
 
 **ATTRIBUTES**:
 
